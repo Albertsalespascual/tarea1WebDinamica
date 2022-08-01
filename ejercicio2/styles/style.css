@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-color:rgb(157, 206, 227)
+}
+table {
+    margin-top: 1%;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid royalblue;
+}
+th, td {
+    padding: 20px;
+    border: 3px solid royalblue;
+}
+button {
+    margin-top: 5%;
+    margin-left: 45%;
+}
